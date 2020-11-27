@@ -81,11 +81,11 @@
             "scaleInEditor": 2
         },
         "main.json": {
-            "scale": 1,
-            "selectedLayer": 0,
+            "scale": 0.33,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 36.5,
-                "y": -186
+                "x": 1324.2424242424242,
+                "y": 409.0909090909091
             }
         }
     },

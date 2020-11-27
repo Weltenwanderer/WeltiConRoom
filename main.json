@@ -57,8 +57,17 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":8,
          "firstgid":1,
-         "source":"[Base]BaseChip_pipo.json"
+         "image":"[Base]BaseChip_pipo.png",
+         "imageheight":4256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"[Base]BaseChip_pipo",
+         "spacing":0,
+         "tilecount":1064,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
