@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "D:/main.json",
+    "activeFile": "main.json",
     "expandedProjectPaths": [
     ],
     "fileStates": {
@@ -76,24 +76,28 @@
                 "y": 148
             }
         },
+        "[Base]BaseChip_pipo.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
         "main.json": {
-            "scale": 1,
-            "selectedLayer": 0,
+            "scale": 0.33,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": -16,
-                "y": 16
+                "x": 1324.2424242424242,
+                "y": 409.0909090909091
             }
         }
     },
     "map.fixedSize": false,
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "D:/WorkDir/Tiled_Map_Test.tmx",
-        "D:/main.json",
-        "C:/Users/Nathanael/AppData/Local/Temp/Temp1_Pipoya RPG Tileset 32x32.zip/Pipoya RPG Tileset 32x32/SampleMap/samplemap.tmx"
+        "main.json",
+        "[Base]BaseChip_pipo.json"
     ],
     "project": "WeltiConRoom.tiled-project",
     "recentFiles": [
+        "[Base]BaseChip_pipo.json",
         "main.json",
         "C:/Users/Nathanael/Downloads/Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/samplemap.tmx",
         "D:/WorkDir/Tiled_Map_Test.tmx",
