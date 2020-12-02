@@ -81,11 +81,11 @@
             }
         },
         "Labyrinth/Labyrinth_Entry.json": {
-            "scale": 1.5,
-            "selectedLayer": 6,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 287,
-                "y": 2292.6666666666665
+                "x": 294,
+                "y": 2442
             }
         },
         "Labyrinth/Labyrinth_Entry.json#Colision": {
@@ -117,8 +117,8 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 486.5,
-                "y": 470
+                "x": 475,
+                "y": 368
             }
         },
         "Tiles/Colision.json": {
@@ -134,11 +134,11 @@
             "scaleInEditor": 1
         },
         "main.json": {
-            "scale": 1,
+            "scale": 0.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": -12.5,
-                "y": 15
+                "x": 1303,
+                "y": 437
             }
         },
         "main.json#BaseChip_pipo": {
@@ -154,11 +154,11 @@
     "property.type": "bool",
     "recentFiles": [
         "Rollenspiel/Rollenspiel_Ebene.tmx",
+        "main.json",
         "Labyrinth/Labyrinth_Entry.json",
         "Tiles/WallOverlays.json",
         "Tiles/Decor.json",
         "Tiles/Colision.json",
-        "main.json",
         "Rollenspiel/Colision.json",
         "Rollenspiel/LightShadow_pipo.tsx",
         "Rollenspiel/Base.tsx",
