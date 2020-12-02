@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Tiles/WallOverlays.json",
+    "activeFile": "Labyrinth/Labyrinth_Entry.json",
     "expandedProjectPaths": [
+        "Rollenspiel",
         "Labyrinth",
         ".",
-        "Rollenspiel",
         "Tiles"
     ],
     "fileStates": {
@@ -81,11 +81,11 @@
             }
         },
         "Labyrinth/Labyrinth_Entry.json": {
-            "scale": 2,
-            "selectedLayer": 4,
+            "scale": 1.5,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 1215.75,
-                "y": 2349
+                "x": 287,
+                "y": 2292.6666666666665
             }
         },
         "Labyrinth/Labyrinth_Entry.json#Colision": {
@@ -96,6 +96,9 @@
             "scaleInEditor": 1
         },
         "Labyrinth/Labyrinth_Entry.json#Decor": {
+            "scaleInDock": 1
+        },
+        "Labyrinth/Labyrinth_Entry.json#WallOverlays": {
             "scaleInDock": 1
         },
         "Rollenspiel/Base.tsx": {
@@ -115,7 +118,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 486.5,
-                "y": 602
+                "y": 470
             }
         },
         "Tiles/Colision.json": {
@@ -145,17 +148,16 @@
     "map.fixedSize": false,
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "Labyrinth/Labyrinth_Entry.json",
-        "Tiles/WallOverlays.json"
+        "Labyrinth/Labyrinth_Entry.json"
     ],
     "project": "WeltiConRoom.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Tiles/WallOverlays.json",
+        "Rollenspiel/Rollenspiel_Ebene.tmx",
         "Labyrinth/Labyrinth_Entry.json",
+        "Tiles/WallOverlays.json",
         "Tiles/Decor.json",
         "Tiles/Colision.json",
-        "Rollenspiel/Rollenspiel_Ebene.tmx",
         "main.json",
         "Rollenspiel/Colision.json",
         "Rollenspiel/LightShadow_pipo.tsx",
