@@ -81,11 +81,11 @@
             }
         },
         "Labyrinth/Labyrinth_Entry.json": {
-            "scale": 0.75,
-            "selectedLayer": 1,
+            "scale": 4,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 294,
-                "y": 2442
+                "x": 213.25,
+                "y": 2887
             }
         },
         "Labyrinth/Labyrinth_Entry.json#Colision": {
@@ -135,10 +135,10 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1303,
-                "y": 437
+                "x": 1302,
+                "y": 438
             }
         },
         "main.json#BaseChip_pipo": {
