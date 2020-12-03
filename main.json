@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.spielevereinweltenwanderer.de\/"
+                 "value":"https:\/\/spielevereinweltenwanderer.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
