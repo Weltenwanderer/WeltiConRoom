@@ -131,11 +131,11 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"Base.tsx"
+         "source":"Base.json"
         }, 
         {
          "firstgid":1065,
-         "source":"LightShadow_pipo.tsx"
+         "source":"LightShadow_pipo.json"
         }],
  "tilewidth":32,
  "type":"map",
