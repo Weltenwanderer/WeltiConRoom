@@ -9812,8 +9812,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":6,
          "firstgid":2141,
-         "source":"Tiles\/TeleportGate.json"
+         "image":"Tiles\/GateTeleport.png",
+         "imageheight":64,
+         "imagewidth":192,
+         "margin":0,
+         "name":"TeleportGate",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
