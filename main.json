@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/spielevereinweltenwanderer.de\/"
+                 "value":"<!DOCTYPE html>\n<html>\n<body>\n\n<p>This text is normal.<\/p>\n\n<p><strong>This text is important!<\/strong><\/p>\n\n<\/body>\n<\/html>"
                 }],
          "type":"tilelayer",
          "visible":true,
