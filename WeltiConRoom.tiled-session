@@ -181,18 +181,18 @@
     "project": "WeltiConRoom.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Tiles/TeleportGate.json",
         "Rollenspiel/Rollenspiel_Ebene.tmx",
+        "Rollenspiel/Rollenspiel_Ebene.json",
+        "Tiles/LightShadow_pipo.json",
+        "Rollenspiel/LightShadow_pipo.tsx",
+        "PenAndPaper/PenAndPaper_main.json",
+        "PenAndPaper/LightShadow_pipo.json",
         "main.json",
+        "Tiles/TeleportGate.json",
         "Labyrinth/Labyrinth_Entry.json",
         "Tiles/WallOverlays.json",
         "Tiles/Colision.json",
-        "Tiles/Decor.json",
-        "Rollenspiel/Rollenspiel_Ebene.json",
-        "Rollenspiel/Colision.json",
-        "Rollenspiel/LightShadow_pipo.tsx",
-        "Rollenspiel/Base.tsx",
-        "D:/WorkDir/Tiled_Map_Test.tmx"
+        "Tiles/Decor.json"
     ],
     "tileset.lastUsedFormat": "json"
 }
