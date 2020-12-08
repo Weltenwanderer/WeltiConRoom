@@ -163,13 +163,15 @@
             "scaleInDock": 1
         },
         "main.json#Colision": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#Decor": {
             "scaleInDock": 1
         },
         "main.json#Extentions": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#TeleportGate": {
             "scaleInDock": 1
