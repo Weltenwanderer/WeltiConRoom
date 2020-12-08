@@ -192,6 +192,7 @@
     "property.type": "bool",
     "recentFiles": [
         "main.json",
+        "GateArea/GateArea.json",
         "Rollenspiel/Rollenspiel_Ebene.json",
         "Labyrinth/Labyrinth_Entry.json",
         "Rollenspiel/Rollenspiel_Ebene.tmx",
@@ -201,8 +202,7 @@
         "Tiles/Colision.json",
         "Tiles/Decor.json",
         "Rollenspiel/Colision.json",
-        "Rollenspiel/LightShadow_pipo.tsx",
-        "Rollenspiel/Base.tsx"
+        "Rollenspiel/LightShadow_pipo.tsx"
     ],
     "tileset.lastUsedFormat": "json"
 }
