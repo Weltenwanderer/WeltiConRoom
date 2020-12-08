@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":30,
  "infinite":false,
  "layers":[
@@ -135,7 +142,7 @@
         }, 
         {
          "firstgid":1065,
-         "source":"LightShadow_pipo.tsx"
+         "source":"..\/Tiles\/LightShadow_pipo.json"
         }],
  "tilewidth":32,
  "type":"map",
