@@ -138,7 +138,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"Base.tsx"
+         "source":"..\/Tiles\/Decor.json"
         }, 
         {
          "firstgid":1065,
