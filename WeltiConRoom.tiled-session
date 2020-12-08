@@ -5,12 +5,15 @@
     },
     "activeFile": "main.json",
     "expandedProjectPaths": [
-        ".",
-        "Labyrinth",
         "Tiles",
-        "Rollenspiel"
+        ".",
+        "Rollenspiel",
+        "Labyrinth"
     ],
     "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
         "C:/Users/Nathanael/AppData/Local/Temp/Temp1_Pipoya RPG Tileset 32x32.zip/Pipoya RPG Tileset 32x32/SampleMap/[A]Flower_pipo.tsx": {
             "dynamicWrapping": true,
             "scaleInDock": 1
@@ -81,11 +84,11 @@
             }
         },
         "Labyrinth/Labyrinth_Entry.json": {
-            "scale": 0.25,
-            "selectedLayer": 3,
+            "scale": 1,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 1808,
-                "y": 1596
+                "x": 423,
+                "y": 2857
             }
         },
         "Labyrinth/Labyrinth_Entry.json#Colision": {
@@ -115,12 +118,20 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
-        "Rollenspiel/Rollenspiel_Ebene.tmx": {
-            "scale": 1,
+        "Rollenspiel/Rollenspiel_Ebene.json": {
+            "scale": 0.8945833333333333,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 475,
-                "y": 368
+                "x": 560.0372612948302,
+                "y": 480.67070330693997
+            }
+        },
+        "Rollenspiel/Rollenspiel_Ebene.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.99999999999994,
+                "y": 479.66666666666663
             }
         },
         "Tiles/Colision.json": {
@@ -131,43 +142,57 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Tiles/TeleportGate.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Tiles/WallOverlays.json": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "main.json": {
-            "scale": 0.25,
-            "selectedLayer": 4,
+            "scale": 1.5,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 1320,
-                "y": 1896
+                "x": 1329.3333333333333,
+                "y": 522
             }
         },
         "main.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "main.json#Colision": {
+            "scaleInDock": 1
+        },
+        "main.json#Decor": {
+            "scaleInDock": 1
+        },
+        "main.json#WallOverlays": {
             "scaleInDock": 1
         }
     },
     "map.fixedSize": false,
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "Labyrinth/Labyrinth_Entry.json",
-        "main.json"
+        "main.json",
+        "Rollenspiel/Rollenspiel_Ebene.tmx",
+        "Tiles/TeleportGate.json"
     ],
     "project": "WeltiConRoom.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Labyrinth/Labyrinth_Entry.json",
-        "main.json",
+        "Tiles/TeleportGate.json",
         "Rollenspiel/Rollenspiel_Ebene.tmx",
+        "main.json",
+        "Labyrinth/Labyrinth_Entry.json",
         "Tiles/WallOverlays.json",
-        "Tiles/Decor.json",
         "Tiles/Colision.json",
+        "Tiles/Decor.json",
+        "Rollenspiel/Rollenspiel_Ebene.json",
         "Rollenspiel/Colision.json",
         "Rollenspiel/LightShadow_pipo.tsx",
         "Rollenspiel/Base.tsx",
-        "D:/WorkDir/Tiled_Map_Test.tmx",
-        "D:/main.json",
-        "C:/Users/Nathanael/Downloads/Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/samplemap.tmx"
+        "D:/WorkDir/Tiled_Map_Test.tmx"
     ],
     "tileset.lastUsedFormat": "json"
 }
