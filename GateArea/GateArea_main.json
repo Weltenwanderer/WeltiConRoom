@@ -63,6 +63,12 @@
          "id":7,
          "name":"exit_to_main",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/main.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
