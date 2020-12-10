@@ -9951,8 +9951,36 @@
          "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":2293,
-         "source":"Tiles\/rc3Decor.json"
+         "image":"Tiles\/rc3Decor.png",
+         "imageheight":320,
+         "imagewidth":64,
+         "margin":0,
+         "name":"rc3Decor",
+         "spacing":0,
+         "tilecount":20,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":6,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
