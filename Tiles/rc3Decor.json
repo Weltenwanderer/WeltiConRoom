@@ -1,4 +1,4 @@
-{ "columns":2,
+{ "columns":3,
  "editorsettings":
     {
      "export":
@@ -8,12 +8,12 @@
         }
     },
  "image":"rc3Decor.png",
- "imageheight":320,
- "imagewidth":64,
+ "imageheight":384,
+ "imagewidth":96,
  "margin":0,
  "name":"rc3Decor",
  "spacing":0,
- "tilecount":20,
+ "tilecount":36,
  "tiledversion":"1.4.3",
  "tileheight":32,
  "tiles":[
@@ -27,13 +27,45 @@
                 }]
         }, 
         {
-         "id":6,
+         "id":9,
          "properties":[
                 {
                  "name":"collides",
                  "type":"bool",
                  "value":true
                 }]
+        }, 
+        {
+         "animation":[
+                {
+                 "duration":200,
+                 "tileid":12
+                }, 
+                {
+                 "duration":200,
+                 "tileid":15
+                }, 
+                {
+                 "duration":600,
+                 "tileid":12
+                }],
+         "id":12
+        }, 
+        {
+         "animation":[
+                {
+                 "duration":200,
+                 "tileid":13
+                }, 
+                {
+                 "duration":200,
+                 "tileid":16
+                }, 
+                {
+                 "duration":600,
+                 "tileid":13
+                }],
+         "id":13
         }],
  "tilewidth":32,
  "type":"tileset",
