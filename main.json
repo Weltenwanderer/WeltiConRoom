@@ -99,6 +99,12 @@
          "id":38,
          "name":"jitsi_penAndPaper_0_0",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"welti_penAndPaper_0_0"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -111,6 +117,12 @@
          "id":39,
          "name":"jitsi_penAndPaper_0_1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"welti_penAndPaper_0_1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -123,6 +135,12 @@
          "id":40,
          "name":"jitsi_penAndPaper_0_2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"welti_penAndPaper_0_2"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -135,6 +153,12 @@
          "id":41,
          "name":"jitsi_penAndPaper_1_0",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"welti_penAndPaper_1_0"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -147,6 +171,12 @@
          "id":42,
          "name":"jitsi_penAndPaper_1_1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"welti_penAndPaper_1_1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -159,6 +189,12 @@
          "id":43,
          "name":"jitsi_penAndPaper_2_0",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"welti_penAndPaper_2_0"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -171,6 +207,12 @@
          "id":44,
          "name":"jitsi_penAndPaper_2_1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"welti_penAndPaper_2_1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
