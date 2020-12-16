@@ -9,10 +9,10 @@ How to create the rooms for the rC3 by the CCC is found hiere: [HowTo rC3 world 
 ## Project Test
 The project could be testet with the test page of the CCC
 Construct like:
-- URL: https://play.workadventu.re/_/global/[DeviceUnderTest.json]
+- URL: https://test.visit.at.wa-test.rc3.cccv.de/_/global/[DeviceUnderTest.json]
 - Map to Test: [DeviceUnderTest.json] = "raw.githubusercontent.com/Weltenwanderer/WeltiConRoom/master/main.json"
 
-For example: https://play.workadventu.re/_/global/raw.githubusercontent.com/Weltenwanderer/WeltiConRoom/master/main.json
+For example: https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/Weltenwanderer/WeltiConRoom/master/main.json
 
 ## Goals
  * Guide the visitors in a way, that they can empower themselves. There should be as little supervision as possible.
@@ -43,3 +43,6 @@ For example: https://play.workadventu.re/_/global/raw.githubusercontent.com/Welt
 - Use and edit freely.
 - Not redistribute or resell this assets.
 - It can be used for game development and other productions.
+
+## Sounds
+Sound effects obtained from https://www.zapsplat.com
