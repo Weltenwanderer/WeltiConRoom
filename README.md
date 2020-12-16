@@ -12,7 +12,7 @@ Construct like:
 - URL: https://play.workadventu.re/_/global/[DeviceUnderTest.json]
 - Map to Test: [DeviceUnderTest.json] = "raw.githubusercontent.com/Weltenwanderer/WeltiConRoom/master/main.json"
 
-For example: hhttps://play.workadventu.re/_/global/raw.githubusercontent.com/Weltenwanderer/WeltiConRoom/master/main.json
+For example: https://play.workadventu.re/_/global/raw.githubusercontent.com/Weltenwanderer/WeltiConRoom/master/main.json
 
 ## Goals
  * Guide the visitors in a way, that they can empower themselves. There should be as little supervision as possible.
