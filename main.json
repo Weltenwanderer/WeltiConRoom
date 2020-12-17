@@ -10415,11 +10415,11 @@
         {
          "columns":10,
          "firstgid":2153,
-         "image":"Tiles\/Extentions.png",
+         "image":"Tiles\/extensions.png",
          "imageheight":128,
          "imagewidth":320,
          "margin":0,
-         "name":"Extentions",
+         "name":"Extensions",
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
