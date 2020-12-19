@@ -9877,7 +9877,20 @@
          "tilecount":16,
          "tileheight":32,
          "tilewidth":32
-        }],
+        },       
+       {
+       "columns":4,
+       "firstgid":2178,
+       "image":"..\/Tiles\/WallOverlays.png",
+       "imageheight":96,
+       "imagewidth":128,
+       "margin":0,
+       "name":"WallOverlays",
+       "spacing":0,
+       "tilecount":12,
+       "tileheight":32,
+       "tilewidth":32
+       }],
  "tilewidth":32,
  "type":"map",
  "version":1.4,
