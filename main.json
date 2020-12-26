@@ -86,12 +86,12 @@
          "height":50,
          "id":5,
          "name":"exit_corridor",
-         "opacity":1,
+         "opacity":0.01,
          "properties":[
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/maps.wa-test.rc3.cccv.de\/corridor-map\/map.json#front_of_coders"
+                 "value":"{<lobby>\/art-games.json#start_spielekiste}"
                 }],
          "type":"tilelayer",
          "visible":true,
