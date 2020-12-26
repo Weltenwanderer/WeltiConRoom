@@ -295,7 +295,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"Labyrinth\/Labyrinth_main.json"
+                 "value":"RoofTop\/RoofTop_main.json"
                 }],
          "type":"tilelayer",
          "visible":true,

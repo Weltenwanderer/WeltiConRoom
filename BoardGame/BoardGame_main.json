@@ -187,7 +187,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"RoofTop\/RoofTop_main.json"
+                 "value":"..\/RoofTop\/RoofTop_main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
