@@ -17,6 +17,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":"Sounds\/silence-1s.mp3"
+                }, 
+                {
                  "name":"silent",
                  "type":"bool",
                  "value":true

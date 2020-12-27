@@ -15,6 +15,17 @@
          "id":14,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":"Sounds\/silence-1s.mp3"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
@@ -268,7 +279,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -284,9 +295,20 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":23,
+ "nextlayerid":24,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"playAudioLoop",
+         "type":"string",
+         "value":"Sounds\/silence-1s.mp3"
+        }, 
+        {
+         "name":"silent",
+         "type":"bool",
+         "value":true
+        }],
  "renderorder":"right-down",
  "tiledversion":"2020.11.25",
  "tileheight":32,
