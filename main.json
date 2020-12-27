@@ -331,7 +331,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"welti_LoungeTable"
+                 "value":"ffbsee_lounge"
                 }],
          "type":"tilelayer",
          "visible":true,
