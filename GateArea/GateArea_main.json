@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/c3oc.json#start_c3kidspace}"
+                 "value":"{<lobby>\/maps\/c3oc.json#start_c3kidspace}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_space-bi}"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_space-bi}"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/art-games.json#start_spielekiste}"
+                 "value":"{<lobby>\/maps\/art-games.json#start_spielekiste}"
                 }],
          "type":"tilelayer",
          "visible":true,
