@@ -128,14 +128,8 @@
          "id":16,
          "name":"exit_labyrinth",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"Labyrinth\/Labyrinth_main.json"
-                }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
