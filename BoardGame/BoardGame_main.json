@@ -192,7 +192,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/RoofTop\/RoofTop_main.json"
+                 "value":"..\/RoofTop\/RoofTop_main.json#start_bg"
                 }],
          "type":"tilelayer",
          "visible":true,
