@@ -60,7 +60,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"welti_PenAndPaper_Armory"
+                 "value":"shared_welti_PenAndPaper_Armory"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"welti_PenAndPaper_Gothic"
+                 "value":"shared_welti_PenAndPaper_Gothic"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"welti_PenAndPaper_Library"
+                 "value":"shared_welti_PenAndPaper_Library"
                 }],
          "type":"tilelayer",
          "visible":true,

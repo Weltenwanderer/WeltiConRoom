@@ -60,7 +60,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"welti_crew1"
+                 "value":"shared_welti_crew1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"welti_crew2"
+                 "value":"shared_welti_crew2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"welti_crew3"
+                 "value":"shared_welti_crew3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"welti_crew4"
+                 "value":"shared_welti_crew4"
                 }],
          "type":"tilelayer",
          "visible":true,
