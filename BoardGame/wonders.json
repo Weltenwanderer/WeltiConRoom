@@ -60,7 +60,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"welti_wonders"
+                 "value":"shared_welti_wonders"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -221,7 +221,7 @@
  "nextobjectid":24,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2020.11.25",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
