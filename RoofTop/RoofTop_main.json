@@ -200,7 +200,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/BoardGame\/BoardGame_main.json"
+                 "value":"..\/BoardGame\/BoardGame_main.json#returnRoofTop"
                 }],
          "type":"tilelayer",
          "visible":true,
