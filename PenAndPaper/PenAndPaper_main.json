@@ -114,7 +114,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/main.json"
+                 "value":"..\/main.json#return_penAndPaper"
                 }],
          "type":"tilelayer",
          "visible":true,
