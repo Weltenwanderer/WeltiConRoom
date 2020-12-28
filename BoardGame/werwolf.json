@@ -72,7 +72,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"welti_werewolf"
+                 "value":"shared_welti_werewolf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,7 +90,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"welti_werewolf"
+                 "value":"shared_welti_saboteur"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -257,7 +257,7 @@
  "nextobjectid":24,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2020.11.25",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
