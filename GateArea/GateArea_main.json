@@ -19,7 +19,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/main.json"
+                 "value":"..\/main.json#return_JumpGates"
                 }],
          "type":"tilelayer",
          "visible":true,
