@@ -138,7 +138,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/..\/swabian-embassy.maps.at.rc3.world\/main.json"
+                 "value":"..\/..\/..\/swabian-embassy.maps.at.rc3.world\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
