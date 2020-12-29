@@ -138,7 +138,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-south.json#start_space-bi}"
+                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_sensor.community}"
                 }],
          "type":"tilelayer",
          "visible":true,
