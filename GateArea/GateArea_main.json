@@ -138,7 +138,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_sensor.community}"
+                 "value":"..\/..\/swabian-embassy.maps.at.rc3.world\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
